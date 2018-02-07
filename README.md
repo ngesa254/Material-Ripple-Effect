@@ -6,8 +6,6 @@ Images
 ------
 
 <img src="Images/ra.png" alt="phone image" width="200px" />
-<img src="Images/rb.png" alt="phone image" width="200px" />
-<img src="Images/rc.png" alt="phone image" width="200px" />
 
 Setup Requirements
 ----------------
